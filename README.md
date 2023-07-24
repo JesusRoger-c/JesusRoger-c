@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Roger Gabriel 👋🏽
 
-- 🏫 Sou Estudante de Informática pelo Instituto Federal de são Paulo (IFSP)
+- 🏫 Sou Estudante de Informática pelo Instituto Federal de São Paulo (IFSP)
 - 👨🏽‍💻 Apaixonado pela Tecnologia
 - 🗃️ Administração de Dados tem uma parte do meu coração
 
