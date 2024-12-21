@@ -2,7 +2,7 @@
 
 - 🏫 Sou Estudante de Informática pelo Instituto Federal de São Paulo (IFSP)
 - 👨🏽‍💻 Apaixonado pela Tecnologia
-- 🗃️ Front-end tem um pouco do meu coração </br>
+- 🗃️ Front-end tem uma parte do meu coração </br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusrogercosta2004@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogergabrielinformatica)
