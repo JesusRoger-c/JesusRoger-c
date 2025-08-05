@@ -4,6 +4,7 @@
 - 👨🏽‍💻 Apaixonado pela Tecnologia
 - 🗃️ Full-stack tem uma parte do meu coração </br>
 
+[![Meu perfil na DIO](https://web.dio.me/users/rogergabriel_trabalho?tab=achievements)](https://web.dio.me/users/rogergabriel_trabalho?tab=achievements)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusrogercosta2004@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogergabrielinformatica)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesusroger_c?r=nametag)
