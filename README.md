@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Roger Gabriel 👋🏽
 
-- 🏫 Sou Estudante de Informática pelo Instituto Federal de São Paulo (IFSP)
+- 🏫 Sou formado pelo Instituto Federal de São Paulo (IFSP)
 - 👨🏽‍💻 Apaixonado pela Tecnologia
 - 🗃️ Full-stack tem uma parte do meu coração </br>
 
@@ -11,7 +11,8 @@
 
 ![Roger GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusRoger-c&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia
+## Tecnologias em que aprendi
+
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
